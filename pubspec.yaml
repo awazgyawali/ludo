@@ -1,0 +1,22 @@
+name: ludo
+description: A new Flutter project.
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^0.1.2
+
+flutter:
+  assets:
+    - assets/ludo_board.jpg
+    - assets/one.png
+    - assets/two.png
+    - assets/three.png
+    - assets/four.png
+    - assets/five.png
+    - assets/six.png
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
